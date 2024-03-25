@@ -16,6 +16,10 @@ You could test the creates qmd file with
 quarto preview my-file.qmd
 ```
 
+E value, enjoi the clean result:
+
+![Preview](screenshots/preview.png)
+
 ## Using
 
 After you have installed the extension, you will have a new format called eisvogel-pdf available. You can use it and adapt it to your needs:
