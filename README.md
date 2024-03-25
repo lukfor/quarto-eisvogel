@@ -66,3 +66,6 @@ classoption: oneside
 
 Here is the source code for a minimal sample document: [template.qmd](template.qmd).
 
+## Credits
+
+Thanks to [@Wandmalfarbe](https://github.com/Wandmalfarbe/) for the beautiful [Eisvogel template](https://github.com/Wandmalfarbe/pandoc-latex-template).  🙏
