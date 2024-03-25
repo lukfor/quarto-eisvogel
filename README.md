@@ -18,6 +18,8 @@ quarto preview my-file.qmd
 
 ## Using
 
+After you have installed the extension, you will have a new format called eisvogel-pdf available. You can use it and adapt it to your needs:
+
 ```
 ---
 title: Eisvogel Template
@@ -30,6 +32,11 @@ author: John Doe
 date: last-modified
 bibliography: references.bib
 ---
+
+# Hello
+
+wow, doesn't Eisvogel look beautiful?
+
 ```
 
 
