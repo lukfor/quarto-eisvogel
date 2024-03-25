@@ -1,6 +1,6 @@
 # quarto-eisvogel Format
 
-This quarto extension is based on the wonderful [Eisvogel template](https://github.com/Wandmalfarbe/pandoc-latex-templ). 
+This quarto extension is based on the wonderful [Eisvogel template](https://github.com/Wandmalfarbe/pandoc-latex-template). 
 
 ## Installing
 
