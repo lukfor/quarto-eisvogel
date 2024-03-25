@@ -32,7 +32,6 @@ bibliography: references.bib
 ---
 ```
 
-See 
 
 ## Format Options
 
@@ -54,5 +53,5 @@ classoption: oneside
 
 ## Example
 
-Here is the source code for a minimal sample document: [example.qmd](example.qmd).
+Here is the source code for a minimal sample document: [template.qmd](template.qmd).
 
