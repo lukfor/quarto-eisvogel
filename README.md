@@ -16,7 +16,7 @@ You could test the creates qmd file with
 quarto preview my-file.qmd
 ```
 
-E value, enjoi the clean result:
+Et voilà, enjoy the clean result.
 
 ![Preview](screenshots/preview.png)
 
