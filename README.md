@@ -22,7 +22,7 @@ Et voilà, enjoy the clean result.
 
 ## Using
 
-After you have installed the extension, you will have a new format called eisvogel-pdf available. You can use it and adapt it to your needs:
+After you have installed the extension, you will have a new format called `eisvogel-pdf` available. You can use it and adapt it to your needs:
 
 ```
 ---
@@ -41,6 +41,30 @@ bibliography: references.bib
 
 wow, doesn't Eisvogel look beautiful?
 
+```
+
+You can also utilize `eisvogel-pdf` for writing books. Refer to the Quarto documentation and modify the format in the `_quarto.yml` file as follows:
+
+```
+project:
+  type: book
+
+book:
+    title: "The Life and Achievements of John Doe"
+    author: "Mario Rossi and Max Mustermann"
+    date: "24. July 2023"
+    chapters:
+    - index.qmd
+    - chapter1.qmd
+    - chapter2.qmd
+    - chapter3.qmd
+    - chapter4.qmd
+    - references.qmd 
+bibliography: references.bib  
+
+format:
+  eisvogel-pdf:
+    book: true
 ```
 
 
