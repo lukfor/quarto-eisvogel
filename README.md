@@ -54,12 +54,12 @@ book:
     author: "Mario Rossi and Max Mustermann"
     date: "24. July 2023"
     chapters:
-    - index.qmd
-    - chapter1.qmd
-    - chapter2.qmd
-    - chapter3.qmd
-    - chapter4.qmd
-    - references.qmd 
+      - index.qmd
+      - chapter1.qmd
+      - chapter2.qmd
+      - chapter3.qmd
+      - chapter4.qmd
+      - references.qmd 
 bibliography: references.bib  
 
 format:
