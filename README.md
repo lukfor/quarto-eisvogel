@@ -28,7 +28,7 @@ This quarto extension is based on the wonderful [Eisvogel template](https://gith
    ```
 
 4. Specify the Eisvogel Template:
-   In your `_quarto.yml` file, set the `format` to `pdf` and use the Eisvogel template. For example:
+   In your `_quarto.yml` file, set the `format` to `eisvogel-pdf` to use the Eisvogel template:
    ```yaml
    project:
      type: manuscript
